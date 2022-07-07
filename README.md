@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @DEAREND.WANG
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-DEARENDWANG/DEARENDWANG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>END（ DEAREND.WANG ）</h2>
+<br><slogan>life will not always be this hard.</slogan>
+<font color="white">Some of us get dipped in flat, some in satin, some in gloss. But every once in a while you will find someone who's iridescent, and when you do, nothing will ever compare.</font>
